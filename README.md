@@ -14,7 +14,7 @@
 :mailbox: Reach me out! <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Nikhil_Singhal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-singhal-0612/)
 [![Mail Badge](https://img.shields.io/badge/-@Nikhil_Singhal-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_singhal_06/)
-
+[![Mail Badge](https://img.shields.io/badge/-Nikhil_Singhal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nikhil2121s@gmail.com)
 #### Business
 - :paperclip: [My Resume/CV]()
 - :email: nikhil2121s@gmail.com
