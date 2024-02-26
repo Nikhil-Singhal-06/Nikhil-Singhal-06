@@ -3,8 +3,8 @@
 👨🏻‍💻 Robotics Software Engineer <br/>
 👨🏻‍🎓 Master's Student at Technical University Braunschweig, Germany <br/>
 
-:laptop: Tech Stack! <br/>
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+:computer: Tech Stack! <br/>
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=fla&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
