@@ -10,6 +10,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=fla&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fla&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00)
 
 
 ### :mailbox: Connect with me!
