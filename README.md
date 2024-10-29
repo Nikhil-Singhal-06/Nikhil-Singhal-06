@@ -23,7 +23,7 @@
 - :email: <strong><small>nikhil2121s@gmail.com</small></strong> -->
 
 ### GitHub stats!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Singhal-06&layout=compact)](https://github.com/Nikhil-Singhal-06/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Singhal-06&layout=compact&show_icons=true&theme=transparent)](https://github.com/Nikhil-Singhal-06/github-readme-stats) -->
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Singhal-06&show_icons=true&theme=transparent)](https://github.com/Nikhil-Singhal-06/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Singhal-06)](https://github.com/Nikhil-Singhal-06/github-readme-stats)
 
