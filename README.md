@@ -1,31 +1,21 @@
-# Hi, I'm Nikhil!
+<h1 align="center">Hi, I'm Nikhil 👋</h1>
+<h3 align="center">Robotics Software Engineer | M.Sc. Robotics Graduate, TU Braunschweig</h3>
 
-👨🏻‍💻 Robotics Software Engineer <br/>
-👨🏻‍🎓 Master's Student at Technical University Braunschweig, Germany <br/>
+<p align="center">
+    Passionate about intelligent systems, robotics, and building software that connects with the real world.
+</p>
 
-<!-- ### :computer: Tech Stack!
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=fla&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=fla&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fla&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=fla&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fla&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00)
+---
 
+### 👨‍💻 About Me
 
-### :mailbox: Connect with me!
-[![Linkedin Badge](https://img.shields.io/badge/-Nikhil_Singhal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-singhal-0612/)
-[![Mail Badge](https://img.shields.io/badge/-@Nikhil_Singhal-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_singhal_06/)
-[![Mail Badge](https://img.shields.io/badge/-Nikhil_Singhal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nikhil2121s@gmail.com) -->
+- 🎓 Recently completed my Master's in Robotics from <strong>Technical University of Braunschweig</strong>  
+- 🤖 Focused on autonomy, control systems, and software for real-time robotics  
+- 🛠️ Experienced in robotic middleware (ROS/ROS2), embedded development, and systems programming  
+- 🚀 Always exploring the edge of what's possible in robotics and AI  
 
-<!-- ### Business
-- :paperclip: [<strong><small>My Resume/CV</small></strong>]()
-- :email: <strong><small>nikhil2121s@gmail.com</small></strong> -->
+---
 
-### GitHub stats!
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Singhal-06&layout=compact&show_icons=true&theme=transparent)](https://github.com/Nikhil-Singhal-06/github-readme-stats) -->
+### 📈 GitHub Stats
+
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Singhal-06&show_icons=true&theme=transparent)](https://github.com/Nikhil-Singhal-06/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Singhal-06)](https://github.com/Nikhil-Singhal-06/github-readme-stats)
-
- ### Profile views counter 👁️‍🗨️
-[![Nikhil profile views](https://u8views.com/api/v1/github/profiles/87761277/views/day-week-month-total-count.svg)](https://u8views.com/github/Nikhil-Singhal-06) -->
